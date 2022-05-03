@@ -1,0 +1,65 @@
+@charset "UTF-8";
+table.tgForm tbody tr td {
+	border:1px solid black;
+	padding: 5px;
+}
+table.tgForm{
+	border:1px solid black;
+	padding: 5px;
+	border-collapse:collapse;
+}
+table.tgPa {
+	border-collapse:collapse;
+	-webkit-box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 15px 5px rgba(0,0,0,0); 
+	box-shadow: 0px 0px 0px 5px #A0A0A0, inset 0px 10px 27px -8px #141414, inset 0px -10px 27px -8px #A31925, 5px 5px 15px 5px rgba(0,0,0,0);
+ 	border-radius: 10px;
+ 	padding: 5px;
+}
+table.tgPa tbody tr td {
+	padding: 5px;
+}
+
+td.th-0pky{
+	font-weight: bold;
+}
+table.tgForm tbody td img {
+	width:200px;
+}
+tr td table#barraPV{
+	border: 1px solid red;
+	background-color: red;
+	height: 15px;
+	max-width: 160px;
+}
+tr td table#barraPM{
+	border: 1px solid blue;
+	background-color: blue;
+	height: 15px;
+	max-width: 72px;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.button2 {
+  background-color: #2158EA; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
