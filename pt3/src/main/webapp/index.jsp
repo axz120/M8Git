@@ -10,9 +10,6 @@
 
 <body>
 
-<h1>MODIFICACIONS!!!!!!!!!!!!!!!!</h1>
-<h1>AAAAAAAAAAAAAAAAAAAAAA</h1>
-
 <a href="form.jsp"><button class="button">Generar Carta</button></a>
 <a href="paginacio.jsp?pagina=1"><button class="button">Mi Mazo</button></a>
 
