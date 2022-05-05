@@ -9,10 +9,10 @@
 
 <body>
 <h1>Are you human?</h1>
-<label for="huma"> Huma</label>
+<label for="huma"> I have a bike</label>
 <input type="checkbox" id="huma" name="check" value="Huma"><br>
 
-<label for="robot"> Robot</label><br>
+<label for="robot"> I have a bike</label><br>
 <input type="checkbox" id="robot" name="check" value="Robot">
 
 </body>
