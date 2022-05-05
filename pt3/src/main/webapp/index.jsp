@@ -9,8 +9,11 @@
 </head>
 
 <body>
-<h1>Juegos de cartas</h1>
+<h1>Modificacions!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
+<h2>aaaaaaaaaaaaaajuda!!!!!!!!!!!!!!!</h2>
+
 <a href="form.jsp"><button class="button">Generar Carta</button></a>
 <a href="paginacio.jsp?pagina=1"><button class="button">Mi Mazo</button></a>
+
 </body>
 </html>
